@@ -1,0 +1,20 @@
+{ "blogs":[
+    {
+ "title": "My new Page",
+  "body": "Laboris aliquip eu elit minim laboris excepteur proident duis eu consequat consequat nostrud nisi mollit.", 
+  "author": "Aki", 
+  "id": 1
+    },
+    {
+ "title": "My new website",
+  "body": "Laboris  elit minim laboris excepteur proident duis eu consequat consequat nostrud nisi mollit.", 
+  "author": "kai",
+   "id": 2
+    },
+    {
+ "title": "My new social", 
+ "body":  "elit minim laboris excepteur proident duis eu consequat consequat nostrud nisi mollit.",
+  "author": "Faria", 
+  "id": 3
+    }
+  ]}
