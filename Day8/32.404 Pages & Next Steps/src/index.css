@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar h1 {
+  color: brown;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+}
+.navbar a:hover {
+  color: rgb(203, 66, 66);
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+.Home {
+  text-align: center;
+}
+.blog-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+.blog-preview:hover {
+  box-shadow: 1px 3px 5px rgba(184, 27, 27, 0.1);
+}
+.blog-preview h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}
+.App {
+  text-align: center;
+}
+.blog-preview a {
+  text-decoration: none;
+}
+.blog-details div {
+  margin: 20px 0px;
+}
+.blog-details h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}
+.blogBody {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}
+.blogs-details {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+  text-align: start;
+}
+.create input,
+.create textarea,
+.create select {
+  margin: 10px 0;
+  width: 600px;
+  display: block;
+  border: 1px solid #ddd;
+  padding: 6px 10px;
+  box-sizing: border-box;
+}
+.create button {
+  background-color: #f1356d;
+  color: #f2f2f2;
+  border: 0;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+label {
+  display: flex;
+}
+.fromOutDiv {
+  width: 600px;
+  height: auto;
+  text-align: justify;
+  padding: 20px;
+  box-sizing: border-box;
+  word-break: break-all;
+}
+.bodyPara {
+  width: 100%;
+}
+.pageInsideBtn {
+  background-color: #f1356d;
+  color: #f2f2f2;
+  border: 0;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 8px;
+}
