@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Laboris  elit minim laboris excepteur proident duis eu consequat consequat nostrud nisi mollit.",
+      "author": "AKi",
+      "id": "1"
+    },
+    {
+      "title": "My new Page",
+      "body": " minim laboris excepteur proident duis eu consequat consequat nostrud nisi mollit.",
+      "author": "kai",
+      "id": "2"
+    },
+    {
+      "title": "My new Profile",
+      "body": "  elit minim laboris excepteur proident duis eu consequat consequat nostrud nisi mollit.",
+      "author": "kai",
+      "id": "3"
+    },
+    {
+      "id": "4c7a",
+      "title": " Loye",
+      "body": "minim laboris excepteur proident duis eu consequat consequat nostrud nisi mollit\n",
+      "author": "Faria"
+    }
+  ]
+}
