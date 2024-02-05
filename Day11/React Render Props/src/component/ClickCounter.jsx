@@ -5,7 +5,7 @@ class ClickCounter extends React.Component {
       const { count, incrementCOunt } = this.props;
         return (
           <div>
-            <button type="button " onMouseOver={incrementCOunt}>
+            <button type="button " onClick={incrementCOunt}>
               {' '}
               Clicked
               {' '}
