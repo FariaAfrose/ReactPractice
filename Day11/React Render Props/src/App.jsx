@@ -13,8 +13,8 @@ return (
     {/* <User name="Faria" /> */}
     {/* <User name={() => 'Faria'} /> */}
     {/* <User render={(isLoggedIn) => ((isLoggedIn) ? 'Faria' : 'AKi')} /> */}
-    <COunter render={(COunter, incrementCOunt) => <ClickCounter count={COunter} incrementCOunt={incrementCOunt} />} />
-    <COunter render={(COunter, incrementCOunt) => <HoverCounter count={COunter} incrementCOunt={incrementCOunt} />} />
+    <COunter render={(count, incrementCOunt) => <ClickCounter count={count} incrementCOunt={incrementCOunt} />} />
+    <COunter render={(count, incrementCOunt) => <HoverCounter count={count} incrementCOunt={incrementCOunt} />} />
 
   </div>
 );
